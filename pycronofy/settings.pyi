@@ -1,0 +1,10 @@
+from _typeshed import Incomplete
+
+API_BASE_URL: str
+API_REGION_FORMAT: str
+APP_BASE_URL: str
+APP_REGION_FORMAT: str
+API_VERSION: str
+DEFAULT_OAUTH_SCOPE: Incomplete
+DEFAULT_TIMEZONE_ID: str
+REQUEST_HOOK: Incomplete
